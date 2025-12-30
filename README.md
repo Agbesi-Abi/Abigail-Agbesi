@@ -29,7 +29,9 @@ Here are some of the projects I’ve worked on:
 
 👉 Check the pinned repositories below for full details.
 
+
 ---
+
 
 ### 📈 Current Focus
 - Building production-ready mobile apps
@@ -39,7 +41,8 @@ Here are some of the projects I’ve worked on:
 ---
 
 ### 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
-- LinkedIn: your-link
+- GitHub: https://github.com/Agbesi-Abi
+- Email: agbesia55@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abigail-agbesi-a368b0230/
+- Portfolio: https://abigailagbesi.vercel.app
 
