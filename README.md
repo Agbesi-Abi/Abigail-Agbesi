@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abigail Agbesi 👋</h1>
+<h1 align="center">Hi, I'm Abigail Agbesi Adwoa 👋</h1>
 <p align="center">
 Frontend & Mobile Developer | React • React Native • Expo
 </p>
@@ -7,7 +7,7 @@ Frontend & Mobile Developer | React • React Native • Expo
 
 ### 🚀 About Me
 I’m a frontend and mobile developer focused on building **clean, scalable, and user-friendly applications**.  
-I enjoy turning ideas into products and continuously improving through real-world projects.
+I enjoy turning ideas into products and continuously improving through real-world projectsthat scale.
 
 I’m currently seeking **junior frontend / mobile developer roles** where I can grow, contribute, and learn from experienced teams.
 
