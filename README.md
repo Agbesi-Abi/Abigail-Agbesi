@@ -9,7 +9,7 @@ Frontend & Mobile Developer | React • React Native • Expo
 I’m a frontend and mobile developer focused on building **clean, scalable, and user-friendly applications**.  
 I enjoy turning ideas into products and continuously improving through real-world projects that scale.
 
-I’m currently seeking **junior frontend / mobile developer roles** where I can grow, contribute, and learn from experienced teams.
+I’m currently seeking **Frontend / mobile developer roles** where I can grow, contribute, and learn from experienced teams.
 
 ---
 
