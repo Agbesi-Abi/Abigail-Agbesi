@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abigail Agbesi Adwoa 👋</h1>
+<h1 align="center">Hi, I'm Abigail Agbesi 👋</h1>
 <p align="center">
 Frontend & Mobile Developer | React • React Native • Expo
 </p>
